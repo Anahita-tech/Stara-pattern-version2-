@@ -1,5 +1,5 @@
-n=int(input('yek add vared konid: '))
-for i in range(n):
-    print('*'*i)
+n=int(input('Enter a number: '))
+for i in range(n+1):
+    print(' * '*i)
 for i in range(n-1,0,-1):
-    print('*'*i)
+    print(' * '*i)
