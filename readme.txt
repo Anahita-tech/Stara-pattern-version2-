@@ -1,0 +1,1 @@
+This is the same program as the previous star pattern,written with a simpler for statement and in few lines.
